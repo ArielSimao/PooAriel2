@@ -13,3 +13,14 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/GerenciarProduto/nbproject/private/
+/aula0509Carros/nbproject/private/
+/aula0509Carros/build/
+/aula0509/nbproject/private/
+/aula0509math/nbproject/private/
+/aula0509math/build/
+/BatalhaNavalAriel/nbproject/private/
+/BatalhaNavalAriel/build/
+/b1/nbproject/private/
+/b1/build/
+/Batalha/nbproject/private/
